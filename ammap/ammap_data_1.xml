@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<map map_file="world3.swf" zoom="100%" zoom_x="7%" zoom_y="-8%">
+	<areas>
+		<area mc_name="AF" title="Afghanistan" value="2" url="" color="" color_hover="" target="_blank">
+			<description>
+				<![CDATA[<br /><p><br /><p>This is Afgahnistan, yeah!</p></p>]]>
+			</description>
+		</area>
+		<area mc_name="AD" title="Andorra" value="1" url="" color="" color_hover="" target="_blank">
+			<description>
+				<![CDATA[]]>
+			</description>
+		</area>
+	</areas>
+</map>
